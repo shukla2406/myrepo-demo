@@ -1,4 +1,4 @@
 # myrepo-demo
 this is my demo repository
 <br>
-author - Harsh shukla
+author - Harsh shukla (git tutorial)
